@@ -1,24 +1,44 @@
 def say_fuck_repeatedly
 
   phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
-  phrase = "fuck"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
 
 end
