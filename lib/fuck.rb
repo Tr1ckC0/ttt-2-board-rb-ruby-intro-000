@@ -40,6 +40,6 @@ def say_fuck_repeatedly
   puts phrase
   puts phrase
   puts phrase
-  
+
 end
 say_fuck_repeatedly * 10
