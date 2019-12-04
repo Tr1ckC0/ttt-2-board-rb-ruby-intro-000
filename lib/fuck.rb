@@ -42,4 +42,4 @@ def say_fuck_repeatedly
   puts phrase
 
 end
-say_fuck_repeatedly * 10
+say_fuck_repeatedly
